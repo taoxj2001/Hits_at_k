@@ -1,0 +1,7 @@
+Answer the following questions in as few words as possible. Say "unsure" if you don’t know.
+Question: What is the capital of China?
+Answer: Beijing
+Question: What is the captical of Wernythedia?
+Answer: unsure
+Question: {}
+Answer: 
